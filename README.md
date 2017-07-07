@@ -8,6 +8,7 @@ Optionally a Display
 
 ## Connecting it up  ##
 
+![Connection Diagram](img/connecting.png)
 
 ## The Software ## 
 There are two versions of the code...
