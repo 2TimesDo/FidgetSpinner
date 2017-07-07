@@ -12,9 +12,11 @@ Optionally a Display
 
 ## The Software ## 
 There are two versions of the code...
-###Version 1 : PulseLength_period_v2###
+
+**Version 1 : PulseLength_period_v2**
 This version prints out the Revs Per Second (RPS) every 5 seconds when a spinner is breaking the beam and the maximum RPS and spin down time when it stops seeing a spinner.
-###Version 2 : PulseLength_period_displayv2###
+
+**Version 2 : PulseLength_period_displayv2**
 For the second version of the software we used an OLED display and the fantastic [u8g2](https://github.com/olikraus/u8g2) library. We could tell you how ours is connected but there are so many different versions of the these displays out there the chances are yours will be different. If in doubt, buy your display from somewhere that tells you how to connect it up and use it (our favourite shops are [Pimoroni](https://shop.pimoroni.com/ "Pimoroni") and [Adafruit](https://www.adafruit.com/))  
 
 # The Theory #
