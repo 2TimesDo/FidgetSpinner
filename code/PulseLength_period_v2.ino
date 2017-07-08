@@ -1,5 +1,7 @@
 /*
-
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+(http://creativecommons.org/licenses/by-sa/4.0/)
+Based on an original piece by 2.Times Do CIC at https://github.com/2timesdo/FidgetSpinner
  */
 
 const int intPULSES=2;                  //Number of Pulses to get period for per read cycle - NTOE doesn't average so only works for 2 currently.
