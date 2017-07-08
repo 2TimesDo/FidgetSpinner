@@ -10,6 +10,10 @@ Optionally a Display
 
 ![Connection Diagram](img/connecting.png)
 
+Note This is how our led and detector looked. Both the IR LED and the Detector need power so hopefully yours each have a red and black wire. The black wires go to Arduino **GND** connections while the red from the detector goes to **5v** and the red from the IR LED goes to either **5v** or **3.3v** The 'other' colour wire from the detector (ours was yellow) goes to **digital pin 2**.
+
+There's a good guide to this by the folks at Adafruit : [ir-breakbeam-sensors](https://learn.adafruit.com/ir-breakbeam-sensors) 
+
 ## The Software ## 
 There are two versions of the code...
 
